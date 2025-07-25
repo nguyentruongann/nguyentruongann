@@ -2,7 +2,7 @@
 
 <!-- Animated Ocean Background -->
 <div align="center">
-  <img src="https://media.tenor.com/c2iS9H7qfgMAAAAd/waves-ocean.gif" width="10000%" height="auto"/>
+  <img src="[https://media.tenor.com/c2iS9H7qfgMAAAAd/waves-ocean.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVkajdma2hscHN2M3hjeW93dW1lbHN0azgybm1iejdtd3RuOXhqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l49JIQnQwlqjci0Ok/giphy.gif)" width="100%" height="auto"/>
 </div>
 
 

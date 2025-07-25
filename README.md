@@ -2,7 +2,7 @@
 
 <!-- Animated Ocean Background -->
 <div align="center">
-  <img src="https://i.giphy.com/media/3og0IzT7S6iCTo97fG/giphy.gif](https://i.pinimg.com/originals/6b/a4/41/6ba441792c6277b0e1ea574c16f9bd7c.gif" width="100%" height="auto"/>
+  <img src="https://i.pinimg.com/originals/6b/a4/41/6ba441792c6277b0e1ea574c16f9bd7c.gif" width="100%" height="auto"/>
 </div>
 
 

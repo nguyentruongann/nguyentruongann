@@ -1,9 +1,10 @@
 <!-- README.md - Animated 3D Ocean Scene -->
 
 <!-- Animated Ocean Background -->
-<div align="center" style="position: relative; width: 100%; height: 250px; overflow: hidden;">
-  <iframe src="https://my.spline.design/miniatureocean-130049267bd6e60f103ae3c0222d54ee/" frameborder="0" width="100%" height="100%"></iframe>
+<div align="center">
+  <img src="[https://i.giphy.com/media/3og0IzT7S6iCTo97fG/giphy.gif](https://i.pinimg.com/originals/6b/a4/41/6ba441792c6277b0e1ea574c16f9bd7c.gif)" width="100%" height="auto"/>
 </div>
+
 
 <h1 align="center">🌊 Nguyễn Trường An 🌊</h1>
 

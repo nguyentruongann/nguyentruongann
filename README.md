@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.gif" width="200" alt="hero-gif"/>
 </p>
 
-<h1 align="center">💻 Nguyễn Trường An | Frontend Pro</h1>
+<h1 align="center">💻 Nguyễn Trường An</h1>
 <p align="center">
   <a href="https://www.facebook.com/Truong.An.IT" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:nta21303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>

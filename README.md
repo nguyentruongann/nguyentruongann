@@ -1,58 +1,46 @@
 <!-- README.md -->
 <p align="center">
-  <img src="https://media.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.gif" width="150" alt="Hero Image"/>
+  <img src="https://media.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.gif" width="200" alt="hero-gif"/>
 </p>
 
-<h1 align="center">Nguyễn Trường An</h1>
+<h1 align="center">💻 Nguyễn Trường An | Frontend Pro</h1>
 <p align="center">
-  <em>Software Engineer & Open-Source Contributor</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NguyenTruongAn">
-    <img src="https://img.shields.io/badge/GitHub-1K%2B%20Contributions-black?logo=github" alt="GitHub Contributions"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nguyentruongan">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <img src="https://img.shields.io/badge/Country-Vietnam-red" alt="Country"/>
-  <img src="https://img.shields.io/badge/Education-IUH-blue" alt="IUH"/>
-  <img src="https://img.shields.io/badge/Status-Freelance-green" alt="Freelance"/>
-  <a href="https://t.me/yourhandle">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram" alt="Telegram"/>
-  </a>
+  <a href="https://www.facebook.com/Truong.An.IT" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="mailto:nta21303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/School-IUH-007ACC?logo=googleclassroom&logoColor=white" alt="IUH">
 </p>
 
 ---
 
 ## 💡 Giới thiệu
-- 🔭 Hiện tại mình đang theo học ngành Công nghệ Thông tin tại **Trường Đại học Công nghiệp TP.HCM (IUH)**.
-- 💻 Đam mê phát triển ứng dụng full‑stack, AI và đóng góp vào các dự án mã nguồn mở.
-- 🚀 Có kinh nghiệm triển khai ứng dụng quy mô với Docker, vLLM và dịch vụ đám mây.
-- 🌱 Luôn cập nhật công nghệ mới và thực hành best‑practices để viết code chất lượng.
+- 🔭 **Đam mê Code**: Luôn khám phá, sáng tạo và cải tiến từng dòng code.
+- 🌱 **Thích Ăn**: Trải nghiệm văn hóa ẩm thực khắp nơi.
+- 💤 **Thích Ngủ**: Nghỉ ngơi để tái tạo năng lượng.
+- 🤝 **Thích Gái Xinh**: Mở rộng kết nối bạn bè và đồng đội.
 
 ---
 
-## 🛠️ Công cụ & Kỹ năng
+## 🔧 Ngôn ngữ & Công cụ
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-3.2-blue?logo=tailwindcss&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-24.0-blue?logo=docker&logoColor=white"/>
-  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-Latest-green"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## 📫 Liên hệ
-<p align="center">
-  <a href="mailto:nta21303@gmail.com">✉️ Email</a> •
-  <a href="https://www.facebook.com/Truong.An.IT">💬 Facebook</a>
-</p>
+## 🚀 Kết nối & Liên hệ
+- Facebook: [Nguyễn Trường An](https://www.facebook.com/Truong.An.IT)
+- Email: nta21303@gmail.com
 
 ---
 
 <p align="center">
-  Made with ❤️ &amp; ☕
+  <strong>Hãy cùng nhau xây dựng những trải nghiệm web đỉnh cao! 🌟</strong>
 </p>

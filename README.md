@@ -1,22 +1,26 @@
 <!-- README.md -->
-<p align="center">
-  <img src="https://media.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.gif" width="200" alt="hero-gif"/>
-</p>
 
-<h1 align="center">💻 Nguyễn Trường An</h1>
+<div align="center" style="background-color:#000; padding:40px;">
+  <!-- Animated cosmic swirl background -->
+  <img src="https://media.giphy.com/media/17qzdWIvoMe2I/giphy.gif" alt="Cosmic Swirl" width="500" />
+  
+  <h1 align="center" style="color:#fff; margin-top:20px;">💻 Nguyễn Trường An | Frontend Pro</h1>
+  <p align="center" style="color:#aaa;">Chuyên nghiệp – Hiện đại – Đẳng cấp</p>
+</div>
+
+---
+
 <p align="center">
   <a href="https://www.facebook.com/Truong.An.IT" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:nta21303@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/School-IUH-007ACC?logo=googleclassroom&logoColor=white" alt="IUH">
 </p>
 
----
-
 ## 💡 Giới thiệu
-- 🔭 **Đam mê Code**: Luôn khám phá, sáng tạo và cải tiến từng dòng code.
-- 🌱 **Thích Ăn**: Trải nghiệm văn hóa ẩm thực khắp nơi.
-- 💤 **Thích Ngủ**: Nghỉ ngơi để tái tạo năng lượng.
-- 🤝 **Thích Gái Xinh**: Mở rộng kết nối bạn bè và đồng đội.
+- 🔭 **Đam mê Code**: Khám phá, sáng tạo và cải tiến từng dòng JavaScript.
+- 🌱 **Thích Ăn**: Trải nghiệm văn hóa ẩm thực đỉnh cao.
+- 💤 **Thích Ngủ**: Nạp đầy năng lượng cho ngày mới.
+- 🤝 **Thích Gái Xinh**: Kết nối, mở rộng mối quan hệ.
 
 ---
 
@@ -41,6 +45,6 @@
 
 ---
 
-<p align="center">
+<p align="center" style="color:#888; margin-top:20px;">
   <strong>Hãy cùng nhau xây dựng những trải nghiệm web đỉnh cao! 🌟</strong>
 </p>

@@ -1,10 +1,4 @@
 <!-- README.md -->
-
-<!-- Cosmic swirl full-width GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/17qzdWIvoMe2I/giphy.gif" alt="Cosmic Background" width="100%" />
-</p>
-
 <!-- Inline SVG rotating Earth placed over cosmic background -->
 <div align="center" style="margin-top:-300px;">
   <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">

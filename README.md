@@ -1,8 +1,29 @@
 <!-- README.md -->
 
-<p align="center" style="margin-top:-200px;">
-  <img src="https://media.giphy.com/media/WQZpXz8Y8eKgGIxrSP/giphy.gif" alt="Rotating Earth" width="200" />
+<!-- Cosmic swirl full-width GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/17qzdWIvoMe2I/giphy.gif" alt="Cosmic Background" width="100%" />
 </p>
+
+<!-- Inline SVG rotating Earth placed over cosmic background -->
+<div align="center" style="margin-top:-300px;">
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <pattern id="earth" patternUnits="userSpaceOnUse" width="200" height="200">
+        <image href="https://media.giphy.com/media/WQZpXz8Y8eKgGIxrSP/giphy.gif" x="0" y="0" width="200" height="200" />
+      </pattern>
+    </defs>
+    <circle cx="100" cy="100" r="100" fill="url(#earth)">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 100 100"
+        to="360 100 100"
+        dur="20s"
+        repeatCount="indefinite" />
+    </circle>
+  </svg>
+</div>
 
 <h4 align="center" style="margin-top:20px;">🛠 Nguyễn Trường An 🛠</h4>
 

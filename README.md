@@ -2,8 +2,9 @@
 
 <!-- Animated Ocean Background -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/6b/a4/41/6ba441792c6277b0e1ea574c16f9bd7c.gif" width="100%" height="auto"/>
+  <img src="https://media.tenor.com/c2iS9H7qfgMAAAAd/waves-ocean.gif" width="100%" height="auto"/>
 </div>
+
 
 
 <h1 align="center">🌊 Nguyễn Trường An 🌊</h1>

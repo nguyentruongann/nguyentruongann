@@ -2,10 +2,10 @@
 
 <!-- Toàn bộ nội dung được bọc trong div với background xoay -->
 <div align="center" style="
-  background-image: url('https://media.giphy.com/media/17qzdWIvoMe2I/giphy.gif'), url('https://media.giphy.com/media/WQZpXz8Y8eKgGIxrSP/giphy.gif');
-  background-size: cover, cover;
-  background-position: center center, center center;
-  background-repeat: no-repeat, no-repeat;
+  background-image:  url('https://media.giphy.com/media/WQZpXz8Y8eKgGIxrSP/giphy.gif');
+  background-size:  cover;
+  background-position:  center center;
+  background-repeat:  no-repeat;
   padding: 80px 20px;
 ">
   <h4 style="color:#fff; margin-bottom:20px;">🛠 Nguyễn Trường An 🛠</h4>

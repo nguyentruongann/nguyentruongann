@@ -37,7 +37,3 @@
   <a href="https://instagram.com/truong.an.it" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram.png" height="50" /></a>&nbsp;
   <a href="mailto:nta21303@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" height="50" /></a>
 </p>
-
----
-
-> **💡 Note:** Sử dụng [Spline](https://spline.design) để tạo background 3D tương tác trực tuyến.

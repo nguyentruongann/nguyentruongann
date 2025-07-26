@@ -37,7 +37,4 @@
   <a href="mailto:nta21303@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" height="60"></a>
 </p>
 
-<!-- Animated Bottom Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif" width="50%"/>
-</div>
+

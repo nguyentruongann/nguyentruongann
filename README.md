@@ -2,7 +2,7 @@
 
 <!-- Animated Ocean Background -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVkajdma2hscHN2M3hjeW93dW1lbHN0azgybm1iejdtd3RuOXhqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l49JIQnQwlqjci0Ok/giphy.gif" width="30%" height="auto"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="80%" style="border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);"/>
 </div>
 
 <h1 align="center">🌊 Nguyễn Trường An 🐋</h1>
@@ -37,4 +37,7 @@
   <a href="mailto:nta21303@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png" height="60"></a>
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVkajdma2hscHN2M3hjeW93dW1lbHN0azgybm1iejdtd3RuOXhqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l49JIQnQwlqjci0Ok/giphy.gif" width="30%" height="auto"/>
+</div>
 

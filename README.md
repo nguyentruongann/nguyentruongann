@@ -24,7 +24,7 @@
 </p>
 
 <!-- GitHub Stats -->
-<h2 align="center">🏄‍♂️ GitHub Surfing 🏄‍♂️</h2>
+<h2 align="center">☀️ GitHub ☀️</h2>
 <div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentruongann&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&bg_color=0d1117&langs_count=8&layout=compact&hide_border=true" width="315" />
   <img src="https://github-readme-stats.vercel.app/api?username=nguyentruongann&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" width="434" />

@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3178C6" height="25" />
   <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=61DAFB" height="25" />
   <img src="https://img.shields.io/badge/HTML5-282C34?logo=HTML5&logoColor=764ABC" height="25" />
-  <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" height="25" />
-  <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" height="25" />
+  <img src="https://img.shields.io/badge/CSS-282C34?logo=CSS&logoColor=4FC08D" height="25" />
+  <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=4FC08D" height="25" />
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="25" />
   <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="25" />
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25" />

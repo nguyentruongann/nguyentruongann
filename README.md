@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/CSS-282C34?logo=CSS&logoColor=4FC08D" height="25" />
   <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=4FC08D" height="25" />
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="25" />
-  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" height="25" />
+  <img src="https://img.shields.io/badge/C-282C34?logo=C&logoColor=FFFFFF" height="25" />
+  <img src="https://img.shields.io/badge/C++-282C34?logo=C++s&logoColor=38B2AC" height="25" />
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" height="25" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" height="25" />
 </p>
 
 <!-- GitHub Stats -->

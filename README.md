@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">🌊 Nguyễn Trường An 🌊</h1>
+<h1 align="center">🌊 Nguyễn Trường An 🐳</h1>
 
 <!-- Skill Badges -->
 <p align="center">

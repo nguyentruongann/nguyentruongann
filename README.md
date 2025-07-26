@@ -12,10 +12,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Docker-092E20?style=flat&logo=Docker&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white" height="30" />

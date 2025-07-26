@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />
   <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=3178C6" height="25" />
-  <img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" height="25" />
+  <img src="https://img.shields.io/badge/mysql-282C34?logo=mysqlt&logoColor=61DAFB" height="25" />
   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" height="25" />
   <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" height="25" />
   <img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" height="25" />
